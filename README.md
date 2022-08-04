@@ -33,6 +33,6 @@
     - The most basic and low-level patterns are often called *idioms.* They usually apply only to a single programming language.
     - Architectural patterns are the most widespread and high-level patterns. Developers can use almost any language to implement these patterns. They can be used to create the architecture of a whole application, unlike other patterns.
     - All patterns can also be grouped according to their *intent* or goal. Three basic categories of pattern are covered in this book:
-        - **Creational patterns:** Creational pattern**s** offer methods for creating objects that boost reusability and flexibility.
+        - [**Creational patterns:**](Creational_patterns) Creational pattern**s** offer methods for creating objects that boost reusability and flexibility.
         - **Structural patterns:** It explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
         - **Behavioral patterns:** It take care of effective communication and the assignment of responsibilities between objects.
