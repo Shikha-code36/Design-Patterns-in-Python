@@ -36,3 +36,5 @@
         - [**Creational patterns:**](Creational_patterns) Creational pattern**s** offer methods for creating objects that boost reusability and flexibility.
         - **Structural patterns:** It explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
         - **Behavioral patterns:** It take care of effective communication and the assignment of responsibilities between objects.
+
+### SOURCE - geeksforgeeks and javatpoint
