@@ -6,6 +6,6 @@
 - **Classification of Creational Design Patterns -**
     - [**Factory Method**](Factory_Method)
     - [**Abstract Factory Method**](Abstract_Factory_Method)
-    - **Builder Method**
-    - **Prototype Method**
-    - **Singleton Method**
+    - [**Builder Method**](Builder_Method)
+    - [**Prototype Method**](Prototype_Method)
+    - [**Singleton Method**](Singleton_Method)
